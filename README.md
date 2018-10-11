@@ -1,4 +1,4 @@
 ## TODO
--[ ] add references
+- [ ] add references
 
--[ ] add PDF resume
+- [ ] add PDF resume
