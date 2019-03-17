@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Mohammad mahdi is student at Amirkabir University of Technology. He is interested in Deep learning applied to Natural Language Processing.
+Mohammadmahdi is a student at Amirkabir University of Technology (Tehran Polytechnic). He is interested in<Strong> Deep learning </Strong>applied to<Strong> Natural Language Processing</Strong>.
 
 
 Research Interests
