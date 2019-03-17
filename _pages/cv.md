@@ -12,6 +12,7 @@ redirect_from:
 Education
 ======
 * B.S. in Computer Eng. , Amirkabir University of Technology, 2016 - present
+
 <!-- * M.S. in Jekyll, GitHub University, 2014
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
 <!-- 
@@ -27,6 +28,7 @@ Work experience
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
    -->
+   
 Skills
 ======
 * Python
