@@ -31,26 +31,32 @@ Work experience
 
 Skills
 ======
-* Python
-  * Tensorflow
-  * Numpy
-* JAVA
-  * Core JAVA
-  * Swing
+* Programming Languages
+  * Python
+    * Tensorflow
+    * NLTK
+    * Gensim
+    * Lucene
 
-<!-- 
-Publications
+  * JAVA
+    * Core JAVA
+    * Swing
+    * Socket Programing
+  * MATLAB
+* Databases
+  * MySQL
+
+Research and Work Experiences
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Research and Development Intern in Developing Persian Question Answering System, at Diaalog ,Jun 2018 – Dec 2018
+
   
-Talks
+Languages
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-   -->
+* Persian, Native Speaker
+* English, Proficient
+
+
 
 Teaching Asisstanship
 ======
