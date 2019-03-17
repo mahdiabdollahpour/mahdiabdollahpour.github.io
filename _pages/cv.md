@@ -11,10 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-
+* B.S. in Computer Eng. , Amirkabir University of Technology, 2016 - present
+<!-- * M.S. in Jekyll, GitHub University, 2014
+* Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
+<!-- 
 Work experience
 ======
 * Summer 2015: Research Assistant
@@ -26,16 +26,16 @@ Work experience
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
-  
+   -->
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
+* Python
+  * Tensorflow
+  * Numpy
+* JAVA
+  * Core JAVA
+  * Swing
+<!-- 
 Publications
 ======
   <ul>{% for post in site.publications %}
@@ -47,13 +47,13 @@ Talks
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
-Teaching
+   -->
+Teaching Asisstanship
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Honors
 ======
 * Currently signed in to 43 different slack teams
