@@ -54,27 +54,13 @@ Talks
 
 Teaching Asisstanship
 ======
-  <ul>{ Linear Algebra }
-    { Dr.Nazerfard }
-  {AmirKabir University of Technology, Sep 2018 – Present  }</ul>
+  <ul> Linear Algebra under supervision of Prof. Nazerfard AmirKabir University of Technology, Sep 2018 – Present  </ul>
 
-  <ul>{ Advanced Programing }
-    { Dr.Kalbasi }
-  {AmirKabir University of Technology, Sep 2018 – Present  }</ul>
-  
-  <ul>{ Advanced Programing }
-    { Dr.Noorhoseini }
-  {AmirKabir University of Technology, Feb 2018 – Jun 2018  }</ul>
+  <ul> Advanced Programing under supervision of Prof. Kalbasi AmirKabir University of Technology, Sep 2018 – Present  </ul>
+
+  <ul> Advanced Programing under supervision of Prof. Noorhoseini AmirKabir University of Technology, Feb 2018 – Jun 2018  </ul>
       
     
-    
-    <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-    <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
 Honors
 ======
 * Honored as the Outstanding Student and Achieved 1st place among 2016-beginner
@@ -86,4 +72,4 @@ of Technology, Tehran, Iran, Oct 2017.
 * Achieved top 0.4% place among all applicants for the University Entrance Nationwide
 Exam, Iran, Approximately 170000 applicants in Math. and Eng., Aug 2016.
 * Qualified for second round of Iranian Mathematical Olympiad , Iran, 2015.
-* Qualified for second round of Iranian Mathematical Olympiad , 2014.
+* Qualified for second round of Iranian Mathematical Olympiad , Iran, 2014.
