@@ -54,11 +54,11 @@ Talks
 
 Teaching Asisstanship
 ======
-* Linear Algebra under supervision of Prof. Nazerfard AmirKabir University of Technology, Sep 2018 – Jan 2019  </ul>
+* Linear Algebra under supervision of Prof. Nazerfard AmirKabir University of Technology, Sep 2018 – Jan 2019  
 
-*  Advanced Programing under supervision of Prof. Kalbasi AmirKabir University of Technology, Sep 2018 – Jan 2019  </ul>
+*  Advanced Programing under supervision of Prof. Kalbasi AmirKabir University of Technology, Sep 2018 – Jan 2019 
 
-*  Advanced Programing under supervision of Prof. Noorhoseini AmirKabir University of Technology, Feb 2018 – Jun 2018  </ul>
+*  Advanced Programing under supervision of Prof. Noorhoseini AmirKabir University of Technology, Feb 2018 – Jun 2018
       
     
 Honors
