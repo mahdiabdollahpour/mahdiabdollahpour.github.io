@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Mohammad mahdi is student at Amirkabir University of Technology. He is interested in Natural Language Processing and also Deep learning.
+Mohammadmahdi is student at Amirkabir University of Technology. He is interested in Natural Language Processing and also Deep learning.
 
 <!-- 
 A data-driven personal website
