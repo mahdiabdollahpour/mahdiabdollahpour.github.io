@@ -37,6 +37,7 @@ Skills
 * JAVA
   * Core JAVA
   * Swing
+
 <!-- 
 Publications
 ======
@@ -50,11 +51,21 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
    -->
+
 Teaching Asisstanship
 ======
   <ul>{ Linear Algebra }
     { Dr.Nazerfard }
   {AmirKabir University of Technology, Sep 2018 – Present  }</ul>
+  <ul>{ Advanced Programing }
+    { Dr.Kalbasi }
+  {AmirKabir University of Technology, Sep 2018 – Present  }</ul>
+  <ul>{ Advanced Programing }
+    { Dr.Noorhoseini }
+  {AmirKabir University of Technology, Feb 2018 – Jun 2018  }</ul>
+      
+    
+    
     <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
