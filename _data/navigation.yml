@@ -21,5 +21,8 @@ main:
   - title: "CV"
     url: /cv/
     
+  - title: "Life Timeline"
+    url: /timeline/
+
   - title: "Guide"
     url: /markdown/
