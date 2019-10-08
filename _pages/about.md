@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to my Home Page"
+title: "About MohammadMahdi Abdollahpour"
 excerpt: "About me"
 author_profile: true
 redirect_from:
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Mohammadmahdi is a Computer Eng. student at <Strong>Amirkabir University of Technology (Tehran Polytechnic)</Strong>. He is enthusiastic about <Strong>Machine Learning</Strong>. To be precise, he is interested in<Strong> Deep learning </Strong>applied to<Strong> Natural Language Processing</Strong>. He is also curious about Neural Networks vulnerabilities as it will cause security and privacy issues. He is interested in <Strong>Adversarial Machine Learning</Strong> especially in security and privacy perspective. 
+Mohammadmahdi is a Computer Eng. student at <Strong>Amirkabir University of Technology (Tehran Polytechnic)</Strong>. He is enthusiastic about <Strong>Machine Learning</Strong>. To be precise, he is interested in<Strong> Deep learning </Strong>applied to<Strong> Natural Language Processing</Strong>. He is also curious about Neural Networks vulnerabilities as it will cause security and privacy issues. He is interested in <Strong>Adversarial Machine Learning</Strong> especially in <Strong>security and privacy</Strong> perspective. 
 
 Research Interests
 ======
