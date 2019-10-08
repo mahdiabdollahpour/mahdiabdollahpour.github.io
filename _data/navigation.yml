@@ -12,11 +12,11 @@ main:
   - title: "About"
     url: 
     
-  - title: "Portfolio"
-    url: /portfolio/
+  # - title: "Portfolio"
+  #   url: /portfolio/
         
-  - title: "Blog Posts"
-    url: /year-archive/
+  # - title: "Blog Posts"
+  #   url: /year-archive/
     
   - title: "CV"
     url: /cv/
@@ -24,5 +24,5 @@ main:
   - title: "Life Timeline"
     url: /timeline/timeline.html
 
-  - title: "Guide"
-    url: /markdown/
+  # - title: "Guide"
+  #   url: /markdown/
