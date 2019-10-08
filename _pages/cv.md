@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.S. in Computer Eng. , Amirkabir University of Technology, 2016 - present
+* B.S. in Computer Eng. , Amirkabir University of Technology, 2016 - 2020(expected)
 
 <!-- * M.S. in Jekyll, GitHub University, 2014
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
@@ -28,7 +28,7 @@ Work experience
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
    -->
-
+<!-- 
 Skills
 ======
 * Programming Languages
@@ -45,10 +45,11 @@ Skills
   * MATLAB
 * Databases
   * MySQL
-
+--->
 Research and Work Experiences
 ======
-* Research and Development Intern in Developing Persian Question Answering System, at Diaalog ,Jun 2018 – Dec 2018
+* Research Intern in Adversarial Machine Learning, at National University of Singapore, Singapore, Jul 2019 – Sep 2019
+* Research and Development Intern in Natural Language Processing, at Diaalog, Tehran, Jun 2018 – Dec 2018
 
   
 Languages
@@ -57,15 +58,13 @@ Languages
 * English, Proficient
 
 
-
+<!---
 Teaching Asisstanship
 ======
 * Linear Algebra under supervision of Prof. Nazerfard AmirKabir University of Technology, Sep 2018 – Jan 2019  
-
 *  Advanced Programing under supervision of Prof. Kalbasi AmirKabir University of Technology, Sep 2018 – Jan 2019 
-
 *  Advanced Programing under supervision of Prof. Noorhoseini AmirKabir University of Technology, Feb 2018 – Jun 2018
-      
+ ---> 
     
 Honors
 ======
