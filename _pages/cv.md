@@ -11,41 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in Computer Eng. , Amirkabir University of Technology, 2016 - 2020(expected)
+* B.S. in Computer Eng. , Amirkabir University of Technology, 2016 - 2020 (expected)
 
-<!-- * M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
-<!-- 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-   -->
-<!-- 
-Skills
-======
-* Programming Languages
-  * Python
-    * Tensorflow
-    * NLTK
-    * Gensim
-    * Lucene
-
-  * JAVA
-    * Core JAVA
-    * Swing
-    * Socket Programing
-  * MATLAB
-* Databases
-  * MySQL
- -->
 Research and Work Experiences
 ======
 * Research Intern in Adversarial Machine Learning, at National University of Singapore, Singapore, Jul 2019 – Sep 2019
