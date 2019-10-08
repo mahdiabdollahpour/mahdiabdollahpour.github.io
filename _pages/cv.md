@@ -45,7 +45,7 @@ Skills
   * MATLAB
 * Databases
   * MySQL
---->
+ -->
 Research and Work Experiences
 ======
 * Research Intern in Adversarial Machine Learning, at National University of Singapore, Singapore, Jul 2019 – Sep 2019
