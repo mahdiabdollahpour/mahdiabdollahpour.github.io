@@ -12,11 +12,10 @@ Mohammadmahdi is a Computer Eng. student at <Strong>Amirkabir University of Tech
 
 Research Interests
 ======
-* Artificial Intelligence
 * Deep Learning
 * Natural Language Processing
 * Adversarial Machine Learning
-
+* Privacy in Machine Learning
 <!--
 A data-driven personal website
 ======
