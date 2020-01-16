@@ -16,6 +16,10 @@ author_profile: true
 {% endfor %} -->
 
 
-[Face Off Reports](https://github.com/mahdiabdollahpour/mahdiabdollahpour.github.io/blob/master/files/Internship_Report.pdf)
+[Face Off Report](https://github.com/mahdiabdollahpour/mahdiabdollahpour.github.io/blob/master/files/Internship_Report.pdf)
+
+
 [Face Off Sample Outputs](https://github.com/mahdiabdollahpour/mahdiabdollahpour.github.io/blob/master/files/Face_Off_Report_compressed.pdf)
+
+
 [Review of Membership Inference Attacks Against Machine Learning Models](https://github.com/mahdiabdollahpour/mahdiabdollahpour.github.io/blob/master/files/Review_of_Membership_Inference_AttacksAgainst_Machine_Learning_Models.pdf)
