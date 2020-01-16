@@ -21,8 +21,8 @@ main:
   - title: "CV"
     url: /cv/
     
-  - title: "Life Timeline"
-    url: /timeline/timeline.html
+  # - title: "Life Timeline"
+  #   url: /timeline/timeline.html
   
   - title: "Files"
     url: /FilesView
