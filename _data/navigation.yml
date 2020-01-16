@@ -24,7 +24,7 @@ main:
   - title: "Life Timeline"
     url: /timeline/timeline.html
  - title: "Files"
-    url: blob/master/files
+    url: /blob/master/files
 
   # - title: "Guide"
   #   url: /markdown/
