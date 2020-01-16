@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Mohammadmahdi is a Computer Eng. student at <Strong>Amirkabir University of Technology (Tehran Polytechnic)</Strong>. He is enthusiastic about <Strong>Machine Learning</Strong>. To be precise, he is interested in<Strong> Deep learning </Strong>applied to<Strong> Natural Language Processing</Strong>. He is also curious about Neural Networks vulnerabilities as it will cause security and privacy issues. He is interested in <Strong>Adversarial Machine Learning</Strong> especially in <Strong>security and privacy</Strong> perspective. 
+Mohammadmahdi is a Computer Eng. student at <Strong>Amirkabir University of Technology (Tehran Polytechnic)</Strong>. He is enthusiastic about <Strong>Machine Learning</Strong>. To be precise, he is interested in<Strong> Deep learning </Strong>applied to<Strong> Natural Language Processing</Strong>. He is also curious about Neural Networks vulnerabilities as it will cause security and privacy issues. He is interested in <Strong>Adversarial Machine Learning</Strong> especially in <Strong>Security and Privacy</Strong> perspective. 
 
 Research Interests
 ======
@@ -16,7 +16,7 @@ Research Interests
 * Deep Learning
 * Natural Language Processing
 * Adversarial Machine Learning
-* Privacy in Machine Learning
+* Representation Learning
 
 <!--
 A data-driven personal website
