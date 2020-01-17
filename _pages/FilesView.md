@@ -24,4 +24,3 @@ author_profile: true
 
 [Review of Membership Inference Attacks Against Machine Learning Models](https://github.com/mahdiabdollahpour/mahdiabdollahpour.github.io/blob/master/files/Review_of_Membership_Inference_AttacksAgainst_Machine_Learning_Models.pdf)
 
-[]
