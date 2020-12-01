@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Mohammadmahdi is a Computer Eng. student at <Strong>Amirkabir University of Technology (Tehran Polytechnic)</Strong>. He is enthusiastic about <Strong>Machine Learning</Strong>. To be precise, he is interested in<Strong> Deep learning </Strong>applied to<Strong> Natural Language Processing</Strong>. He is also curious about Neural Networks vulnerabilities as it will cause security and privacy issues. He is interested in <Strong>Adversarial Machine Learning</Strong> especially in <Strong>Security and Privacy</Strong> perspective. 
+Mohammad Mahdi is a Computer Eng. student at <Strong>Amirkabir University of Technology (Tehran Polytechnic)</Strong>. He is enthusiastic about <Strong>Machine Learning</Strong>. To be precise, he is interested in<Strong> Deep learning </Strong>applied to<Strong> Natural Language Processing</Strong>. He is also interested in about Neural Networks vulnerabilities and Adversarial Machine Learning. 
 
 Research Interests
 ======
@@ -17,6 +17,46 @@ Research Interests
 * Natural Language Processing
 * Adversarial Machine Learning
 * Representation Learning
+
+Education
+======
+- B.Sc. of Computer Engineering (2016–2020)
+
+  Amirkabir University of Tech. (AUT), Tehran
+  
+   **Average Grade: GPA: 4/4, Ranked 1st**.
+
+Publications 
+======
+- **A Comparative Study on Text Representation and Learning on Persian Named Entity Recognition**,
+Mohammad Mahdi Abdollah Pour, Saeedeh Momtazi, submitted to Pattern Recognition Letters, [Abstract](https://drive.google.com/file/d/18-vrbH6x6AK-GRuzuq_FxRRp3kbsgv7q/view).
+
+- **A Comparative Study on Contextualized Embedding on Text Chunking**, Parsa Kavehzadeh, Mohammad
+Mahdi Abdollah Pour, Saeedeh Momtazi, submitted to IEEE Transactions on Audio, Speech and
+Language Processing, [Abstract](https://drive.google.com/file/d/1E2GzNGsa2DofIeziKv2nscYDas8_luUI/view).
+
+- **A Transformer-based Approach for Persian Text Chunking**, Parsa Kavehzadeh, Mohammad Mahdi
+Abdollah Pour, Saeedeh Momtazi, submitted to ACM TALLIP, [Abstract](https://drive.google.com/file/d/1Sgy4lPOry6dvAmORil6rbk7Df-R50MDE/view).
+
+- **A New Transformer-based Hybrid model for Forecasting Energy Market Prices**, Mohammad Mahdi
+Abdollah Pour, Ehsan Hajizadeh and Parsa Farineya, submitted to Energy, [Abstract](https://drive.google.com/file/d/1EwD4R21XPcLWpt4SGSzU5ycRwz87Rx1i/view).
+
+Research and Work Experience 
+======
+
+
+- **Research Intern in Adversarial Machine Learning, at National University of Singapore** -
+System Security Lab, Singapore, On Adversarial Machine Learning, under supervision [Prof. Shokri](https://www.comp.nus.edu.sg/~reza/).
+Developing a plugin to obfuscate images to enhance privacy. Performing adversarial attack on facial recognition by
+using projected gradient descent with momentum on faces in latent space. Also, attacking face detection with PGD.
+Brief report can be found [here](https://github.com/mahdiabdollahpour/mahdiabdollahpour.github.io/blob/master/files/Internship_Report.pdf). Outputs can be found [here](https://github.com/mahdiabdollahpour/mahdiabdollahpour.github.io/blob/master/files/Face_Off_Report_compressed.pdf).
+
+- **Bachelor’s Thesis, at AUT** - NLP Lab, developing a Persian Natural Language Processing Toolkit, under
+supervision [Prof. Momtazi](https://ceit.aut.ac.ir/~momtazi/), Using Transformer based Language models for NER, POS, Text Chunking and
+Argument Mining, Comparative study on contextual embeddings and sequence tagging models.
+
+- **Research and Development Intern in NLP, Tehran, at [Diaalog](http://diaalog.ir/)**,
+Developing Persian Question Answering System.
 
 <!--
 A data-driven personal website
