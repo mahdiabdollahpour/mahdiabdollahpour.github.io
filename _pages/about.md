@@ -24,7 +24,7 @@ Education
 
   Amirkabir University of Tech. (AUT), Tehran
   
-   **Average Grade: GPA: 4/4, Ranked 1st**.
+   **GPA: 4/4, Ranked 1st**.
 
 Publications 
 ======
