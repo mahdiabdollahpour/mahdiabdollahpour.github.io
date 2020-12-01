@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Mohammad Mahdi is a Computer Eng. student at <Strong>Amirkabir University of Technology (Tehran Polytechnic)</Strong>. He is enthusiastic about <Strong>Machine Learning</Strong>. To be precise, he is interested in<Strong> Deep learning </Strong>applied to<Strong> Natural Language Processing</Strong>. He is also interested in about Neural Networks vulnerabilities and Adversarial Machine Learning. 
+Mohammad Mahdi is a Computer Eng. student at <Strong>Amirkabir University of Technology (Tehran Polytechnic)</Strong>. He is enthusiastic about <Strong>Machine Learning</Strong>. To be precise, he is interested in<Strong> Deep learning </Strong>applied to<Strong> Natural Language Processing</Strong>. He is also interested in neural network vulnerabilities and Adversarial Machine Learning. 
 
 Research Interests
 ======
@@ -28,18 +28,13 @@ Education
 
 Publications 
 ======
-- **A Comparative Study on Text Representation and Learning on Persian Named Entity Recognition**,
-Mohammad Mahdi Abdollah Pour, Saeedeh Momtazi, submitted to Pattern Recognition Letters, [Abstract](https://drive.google.com/file/d/18-vrbH6x6AK-GRuzuq_FxRRp3kbsgv7q/view).
+- **Mohammad Mahdi Abdollah Pour**, Saeedeh Momtazi, "A Comparative Study on Text Representation and Learning on Persian Named Entity Recognition", submitted to Pattern Recognition Letters, [Abstract](https://drive.google.com/file/d/18-vrbH6x6AK-GRuzuq_FxRRp3kbsgv7q/view).
 
-- **A Comparative Study on Contextualized Embedding on Text Chunking**, Parsa Kavehzadeh, Mohammad
-Mahdi Abdollah Pour, Saeedeh Momtazi, submitted to IEEE Transactions on Audio, Speech and
-Language Processing, [Abstract](https://drive.google.com/file/d/1E2GzNGsa2DofIeziKv2nscYDas8_luUI/view).
+- Parsa Kavehzadeh, **Mohammad Mahdi Abdollah Pour**, Saeedeh Momtazi, "A Comparative Study on Contextualized Embedding on Text Chunking", submitted to IEEE Transactions on Audio, Speech and Language Processing, [Abstract](https://drive.google.com/file/d/1E2GzNGsa2DofIeziKv2nscYDas8_luUI/view).
 
-- **A Transformer-based Approach for Persian Text Chunking**, Parsa Kavehzadeh, Mohammad Mahdi
-Abdollah Pour, Saeedeh Momtazi, submitted to ACM TALLIP, [Abstract](https://drive.google.com/file/d/1Sgy4lPOry6dvAmORil6rbk7Df-R50MDE/view).
+- Parsa Kavehzadeh, **Mohammad Mahdi Abdollah Pour**, Saeedeh Momtazi, "A Transformer-based Approach for Persian Text Chunking" submitted to ACM Transactions on Asian and Low-Resource Language Information Processing (TALLIP), [Abstract](https://drive.google.com/file/d/1Sgy4lPOry6dvAmORil6rbk7Df-R50MDE/view).
 
-- **A New Transformer-based Hybrid model for Forecasting Energy Market Prices**, Mohammad Mahdi
-Abdollah Pour, Ehsan Hajizadeh and Parsa Farineya, submitted to Energy, [Abstract](https://drive.google.com/file/d/1EwD4R21XPcLWpt4SGSzU5ycRwz87Rx1i/view).
+- **Mohammad Mahdi Abdollah Pour**, Ehsan Hajizadeh and Parsa Farineya, "A New Transformer-based Hybrid model for Forecasting Energy Market Prices", submitted to Elsevier Energy, [Abstract](https://drive.google.com/file/d/1EwD4R21XPcLWpt4SGSzU5ycRwz87Rx1i/view).
 
 Research and Work Experience 
 ======
