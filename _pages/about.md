@@ -14,9 +14,13 @@ Research Interests
 ======
 
 * Deep Learning
-* Natural Language Processing
 * Adversarial Machine Learning
 * Representation Learning
+* Natural Language Processing
+* Social Media Analytics
+* Human Computer Interactions
+
+
 
 Education
 ======
