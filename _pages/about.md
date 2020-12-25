@@ -14,11 +14,9 @@ Research Interests
 ======
 
 * Deep Learning
-* Adversarial Machine Learning
-* Representation Learning
 * Natural Language Processing
-* Social Media Analytics
-* Human Computer Interactions
+* Computer Vision
+
 
 
 
@@ -38,7 +36,7 @@ Publications
 
 - Parsa Kavehzadeh, **Mohammad Mahdi Abdollah Pour**, Saeedeh Momtazi, "A Transformer-based Approach for Persian Text Chunking" submitted to ACM Transactions on Asian and Low-Resource Language Information Processing (TALLIP), [Abstract](https://drive.google.com/file/d/1Sgy4lPOry6dvAmORil6rbk7Df-R50MDE/view).
 
-- **Mohammad Mahdi Abdollah Pour**, Ehsan Hajizadeh and Parsa Farineya, "A New Transformer-based Hybrid model for Forecasting Energy Market Prices", submitted to Elsevier Energy, [Abstract](https://drive.google.com/file/d/1EwD4R21XPcLWpt4SGSzU5ycRwz87Rx1i/view).
+- **Mohammad Mahdi Abdollah Pour**, Ehsan Hajizadeh and Parsa Farineya, "A New Transformer-based Hybrid model for Forecasting Energy Market Prices", submitted to Applied Soft Computing, [Abstract](https://drive.google.com/file/d/1EwD4R21XPcLWpt4SGSzU5ycRwz87Rx1i/view).
 
 Research and Work Experience 
 ======
