@@ -39,8 +39,7 @@ Publications
 - **Mohammad Mahdi Abdollah Pour**, Masood Ghayoomi, Saeedeh Momtazi, "Cross-lingual deep representation for cross-lingual argument mining" preparing- finalizing the manuscript
 
 
-
-- **Mohammad Mahdi Abdollah Pour**, Ehsan Hajizadeh and Parsa Farineya, "A New Transformer-based Hybrid model for Forecasting Energy Market Prices", will be submitted to Neural Computing and Applications, [Abstract](https://drive.google.com/file/d/1EwD4R21XPcLWpt4SGSzU5ycRwz87Rx1i/view).
+- **Mohammad Mahdi Abdollah Pour**, Ehsan Hajizadeh and Parsa Farineya, "A New Transformer-based Hybrid model for Forecasting Energy Market Prices", submitted to Neural Computing and Applications, [Abstract](https://drive.google.com/file/d/1EwD4R21XPcLWpt4SGSzU5ycRwz87Rx1i/view).
 
 Research and Work Experience 
 ======
