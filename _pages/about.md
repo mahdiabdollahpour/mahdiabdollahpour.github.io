@@ -32,6 +32,8 @@ Education
 Publications 
 ======
 
+- Parsa Farinneya, **Mohammad Mahdi Abdollah Pour**, Sardar Hamidian, Mona Diab, "Active Learning for Rumor Identification on Social Media", EMNLP 2021, [Paper](https://aclanthology.org/2021.findings-emnlp.387/).
+
 - **Mohammad Mahdi Abdollah Pour**, Ehsan Hajizadeh and Parsa Farineya, "A New Transformer-based Hybrid model for Forecasting Energy Market Prices", submitted to Finance and Economics, [Abstract](https://drive.google.com/file/d/1EwD4R21XPcLWpt4SGSzU5ycRwz87Rx1i/view).
 
 - **Mohammad Mahdi Abdollah Pour**, Saeedeh Momtazi "Multi-task Learning for Cross-lingual Representation and Sequence Labeling", submitted to Neurocomputing (Special Issue), [Abstract](https://drive.google.com/file/d/1z7x0Btd5eYkRx-w5H2C5_f4gE4lFNwob/view).
