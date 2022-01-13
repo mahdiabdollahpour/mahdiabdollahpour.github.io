@@ -24,7 +24,7 @@ Research Interests
 Education
 ======
 
-- MASc of Information Engineering (2016–2020)
+- MASc of Information Engineering (2022–Present)
 
   University of Toront. (UofT), Toronto
   
