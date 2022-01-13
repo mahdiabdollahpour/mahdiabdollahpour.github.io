@@ -26,7 +26,7 @@ Education
 
 - MASc of Information Engineering (2022–Present)
 
-  University of Toront. (UofT), Toronto
+  University of Toronto (UofT), Toronto
   
 
 - B.Sc. of Computer Engineering (2016–2020)
