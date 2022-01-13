@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm Mahdi, a graduate student at  University of Toronto. I am working on Conversatioal Recommendation at D3M lab at UofT 
+I'm Mahdi, a graduate student at  University of Toronto. I am working on Conversatioal Recommendation at [D3M](https://d3m.mie.utoronto.ca/) lab at UofT.
 <!-- is enthusiastic about <Strong>Machine Learning</Strong>. To be precise, he is interested in<Strong> Deep learning </Strong>applied to<Strong> Natural Language Processing</Strong>. He is also interested in neural network vulnerabilities and Adversarial Machine Learning.  -->
 
 Research Interests
