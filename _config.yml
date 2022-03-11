@@ -86,7 +86,7 @@ author:
   # location         : "Location"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  # googlescholar    : "http://mabdollahpour@aut.ac.ir"
+  googlescholar    : "https://scholar.google.com/citations?user=P15R_U0AAAAJ&hl=en"
   email            : mabdollahpour@aut.ac.ir
   # researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -101,7 +101,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "mohammadmahdi-abdollahpour-a48b008b/"
+  linkedin         : "https://www.linkedin.com/in/mohammad-mahdi-abdollah-pour-a48b008b/"
   # orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
