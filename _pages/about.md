@@ -33,7 +33,7 @@ Education
 
   Amirkabir University of Tech. (AUT), Tehran
   
-   **GPA: 4/4, Ranked 1st**.
+<!--    **GPA: 4/4, Ranked 1st**. -->
 
 Publications 
 ======
