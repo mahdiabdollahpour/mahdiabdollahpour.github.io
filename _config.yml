@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "MohammadMahdi Abdollahpour"
   avatar           : "profile.png"
-  bio              : "Student at Amirkabir University of Technology"
+  bio              : "Graduate Student at University of Toronto"
   # location         : "Location"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=P15R_U0AAAAJ&hl=en"
-  email            : mabdollahpour@aut.ac.ir
+  email            : m.abdollahpour@mail.utoronto.ca
   # researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
