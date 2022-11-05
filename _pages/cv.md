@@ -33,15 +33,4 @@ Teaching Asisstanship
 *  Advanced Programing under supervision of Prof. Noorhoseini AmirKabir University of Technology, Feb 2018 – Jun 2018
  ---> 
     
-Honors
-======
-* Honored as the Outstanding Student and Achieved 1st place among 2016-beginner
-under-graduate students in Computer Engineering major , Amirkabir University
-of Technology, Tehran, Iran, Oct 2018.
-* Honored as the Outstanding Student and Achieved 1st place among 2016-beginner
-under-graduate students in Computer Engineering major , Amirkabir University
-of Technology, Tehran, Iran, Oct 2017.
-* Achieved top 0.4% place among all applicants for the University Entrance Nationwide
-Exam, Iran, Approximately 170000 applicants in Math. and Eng., Aug 2016.
-* Qualified for second round of Iranian Mathematical Olympiad , Iran, 2015.
-* Qualified for second round of Iranian Mathematical Olympiad , Iran, 2014.
+
