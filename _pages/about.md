@@ -33,13 +33,13 @@ Education
 
   Amirkabir University of Tech. (AUT), Tehran
   
-<!--    **GPA: 4/4, Ranked 1st**. -->
 
-Publications 
+
+<!--Publications 
 ======
 Parsa Farinneya, **Mohammad Mahdi Abdollah Pour**, Sardar Hamidian, Mona Diab
 "Active Learning for Rumor Identification on Social Media
-Authors" EMNLP 2021 [Paper](https://aclanthology.org/2021.findings-emnlp.387/)
+Authors" EMNLP 2021 [Paper](https://aclanthology.org/2021.findings-emnlp.387/)-->
  
 <!-- - **Mohammad Mahdi Abdollah Pour**, Saeedeh Momtazi, "A Comparative Study on Text Representation and Learning on Persian Named Entity Recognition", submitted to Pattern Recognition Letters, [Abstract](https://drive.google.com/file/d/18-vrbH6x6AK-GRuzuq_FxRRp3kbsgv7q/view). -->
 
