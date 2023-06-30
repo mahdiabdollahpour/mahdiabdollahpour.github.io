@@ -61,6 +61,8 @@ Research and Work Experience
 
  <!--Developing a plugin to obfuscate images to enhance privacy. Performing adversarial attack on facial recognition by
 using projected gradient descent with momentum on faces in latent space. Also, attacking face detection with PGD. -->
+
+
 Education
 ======
 
