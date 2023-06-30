@@ -8,18 +8,20 @@ redirect_from:
   - /about.html
 ---
 
-I'm Mahdi, a graduate student at University of Toronto. I am working on Natural Language Processing and Information Retrieval  at [D3M](https://d3m.mie.utoronto.ca/) lab at UofT.
-<!-- is enthusiastic about <Strong>Machine Learning</Strong>. To be precise, he is interested in<Strong> Deep learning </Strong>applied to<Strong> Natural Language Processing</Strong>. He is also interested in neural network vulnerabilities and Adversarial Machine Learning.  -->
 
-Research Interests
+Welcome to my homepage! I'm Mahdi, a graduate student studying at the University of Toronto. Currently, I'm actively involved in the fascinating fields of **Natural Language Processing** and **Information Retrieval** as a member of [D3M](https://d3m.mie.utoronto.ca/) lab at UofT. Specifically, I am passionate about controllable text generation, language-based item retrieval, dialogue systems, and ensuring the safety and minimizing toxicity in language models. Feel free to explore my research and delve into these exciting topics!
+
+
+
+
+
+<!-- Research Interests
 ======
-
-
 * Natural Language Processing
   * Controllable Text Generation
   * Safe Langauge Generation
 * Information Retrieval
-  * Language-based reviewed-item retrieval 
+  * Language-based reviewed-item retrieval -->
 
 
 Research and Work Experience 
@@ -43,7 +45,7 @@ Research and Work Experience
     * Under the supervision of [Prof. Shokri](https://www.comp.nus.edu.sg/~reza/).
 
 - **Bachelor’s Thesis, at Amirkabir University of Technology (AUT), NLP Lab** (Feb 2018 — Sep 2020)
-  - developing a Persian Natural Language Processing Toolkit
+  - Developing a Persian Natural Language Processing Toolkit
   - Using Transformer based Language models for NER, POS, Text Chunking and Argument Mining, Comparative study on contextual embeddings and sequence tagging models.
   - Under the supervision of [Prof. Momtazi](https://ceit.aut.ac.ir/~momtazi/)
 
