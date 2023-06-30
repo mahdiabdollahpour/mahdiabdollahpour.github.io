@@ -12,5 +12,8 @@ redirect_from:
 During my free time, I always enjoy playing Soccer at UofT [Back Campus Fields](https://kpe.utoronto.ca/facility/back-campus-fields).
 
 
-<img src="https://github.com/mahdiabdollahpour/mahdiabdollahpour.github.io/blob/master/images/ball.jpg?raw=true" height="400">
+<img src="https://github.com/mahdiabdollahpour/mahdiabdollahpour.github.io/blob/master/images/ball.jpg?raw=true" width="300" style="  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;">
 
