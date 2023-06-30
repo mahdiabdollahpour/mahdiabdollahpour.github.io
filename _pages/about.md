@@ -8,19 +8,59 @@ redirect_from:
   - /about.html
 ---
 
-I'm Mahdi, a graduate student at  University of Toronto. I am working on Conversatioal Recommendation at [D3M](https://d3m.mie.utoronto.ca/) lab at UofT.
+I'm Mahdi, a graduate student at University of Toronto. I am working on Natural Language Processing and Information Retrieval  at [D3M](https://d3m.mie.utoronto.ca/) lab at UofT.
 <!-- is enthusiastic about <Strong>Machine Learning</Strong>. To be precise, he is interested in<Strong> Deep learning </Strong>applied to<Strong> Natural Language Processing</Strong>. He is also interested in neural network vulnerabilities and Adversarial Machine Learning.  -->
 
 Research Interests
 ======
 
-* Conversational Recommendation
+
 * Natural Language Processing
-* Computer Vision
+  * Controllable Text Generation
+  * Safe Langauge Generation
+* Information Retrieval
+  * Language-based reviewed-item retrieval 
+
+
+Research and Work Experience 
+======
+- **Research Assistant - D3M Lab, University of Toronto (UofT)** - Working on IR and NLP (Jan 2022 — Present)
+  - Expected graduation date: Dec 2023  
+  * Main research:
+    * Multi-objective Text Decoding (under progress)
+    <!-- * ContrastiveUnlikelihoodtrainingforTextStyleTransfer (under review) -->
+    * Self-supervised contrastive learning for item retrieval based on user reviews [published ECIR2023](https://link.springer.com/content/pdf/10.1007/978-3-031-28244-7_1)
+  * Collaboration:
+    <!-- * LLMs for Query-driven Multiaspect Preference Retrieval over Knowledge Graphs(under progress)-->
+    <!-- * In-Context Learning Framework for Text Detoxification (under review) -->
+    * Text Detoxification with Diffusion Seq2SeqModels [published ACL2023](https://arxiv.org/pdf/2306.08505.pdf)
+    * Commonsense Reasoning for food recipe Question Answering [published SIGIR2023](https://ssanner.github.io/papers/sigir23_recipempr.pdf)
+  * Under the supervision of [Prof. Sanner](https://d3m.mie.utoronto.ca/members/ssanner/).
+- **Research Intern, at National University of Singapore (NUS), Systems Security Lab** - On Adversarial Machine Learning (Jul 2019 — Sep 2019)
+    * Performing an adversarial attack on facial recognition by using projected gradient descent with momentum on faces in latent space (JavaScript, Python, Tensorflow)
+    * Attacking face detection with PGD (JavaScript, Tensorflow).
+    * A brief report can be found [here](https://github.com/mahdiabdollahpour/mahdiabdollahpour.github.io/blob/master/files/Internship_Report.pdf). Outputs can be found [here](https://github.com/mahdiabdollahpour/mahdiabdollahpour.github.io/blob/master/files/Face_Off_Report_compressed.pdf).
+    * Under the supervision of [Prof. Shokri](https://www.comp.nus.edu.sg/~reza/).
+
+- **Bachelor’s Thesis, at Amirkabir University of Technology (AUT), NLP Lab** (Feb 2018 — Sep 2020)
+  - developing a Persian Natural Language Processing Toolkit
+  - Using Transformer based Language models for NER, POS, Text Chunking and Argument Mining, Comparative study on contextual embeddings and sequence tagging models.
+  - Under the supervision of [Prof. Momtazi](https://ceit.aut.ac.ir/~momtazi/)
+
+
+- **Research Assistant** (Oct 2020 — May 2021)
+
+  * Active transfer learning for low resource Rumour Detection on Tweets, Paper (Python, Pytorch, Sk-learn) [published EMNLP2021](https://aclanthology.org/2021.findings-emnlp.387/)
+  * Under supervision of [Dr. Sardar Hamidian](https://scholar.google.com/citations?user=TuPmndQAAAAJ&hl=en) at George Washington University
 
 
 
+- **Research and Development Intern in NLP, Tehran, at [Diaalog](http://diaalog.ir/)**  (Jun 2018 — Dec 2018)
+  - Developing Persian chatbot system using Deep Encoder-Decoder with LSTM layers and attention mechanism, [code](https://github.com/mahdiabdollahpour/Neural-Dialogue-System) (Python, TF)
+  - Question Answering system based on clustering methods, [code](https://github.com/1997alireza/QA-Clustering) (Python, Sk-learn)
 
+ <!--Developing a plugin to obfuscate images to enhance privacy. Performing adversarial attack on facial recognition by
+using projected gradient descent with momentum on faces in latent space. Also, attacking face detection with PGD. -->
 Education
 ======
 
@@ -49,22 +89,7 @@ Authors" EMNLP 2021 [Paper](https://aclanthology.org/2021.findings-emnlp.387/)--
 
 - **Mohammad Mahdi Abdollah Pour**, Ehsan Hajizadeh and Parsa Farineya, "A New Transformer-based Hybrid model for Forecasting Energy Market Prices", submitted to Applied Soft Computing, [Abstract](https://drive.google.com/file/d/1EwD4R21XPcLWpt4SGSzU5ycRwz87Rx1i/view). -->
 
-Research and Work Experience 
-======
 
-
-- **Research Intern in Adversarial Machine Learning, at National University of Singapore** -
-System Security Lab, Singapore, On Adversarial Machine Learning, under supervision [Prof. Shokri](https://www.comp.nus.edu.sg/~reza/).
-Developing a plugin to obfuscate images to enhance privacy. Performing adversarial attack on facial recognition by
-using projected gradient descent with momentum on faces in latent space. Also, attacking face detection with PGD.
-Brief report can be found [here](https://github.com/mahdiabdollahpour/mahdiabdollahpour.github.io/blob/master/files/Internship_Report.pdf). Outputs can be found [here](https://github.com/mahdiabdollahpour/mahdiabdollahpour.github.io/blob/master/files/Face_Off_Report_compressed.pdf).
-
-- **Bachelor’s Thesis, at AUT** - NLP Lab, developing a Persian Natural Language Processing Toolkit, under
-supervision [Prof. Momtazi](https://ceit.aut.ac.ir/~momtazi/), Using Transformer based Language models for NER, POS, Text Chunking and
-Argument Mining, Comparative study on contextual embeddings and sequence tagging models.
-
-- **Research and Development Intern in NLP, Tehran, at [Diaalog](http://diaalog.ir/)**,
-Developing Persian Question Answering System.
 
 <!--
 A data-driven personal website
