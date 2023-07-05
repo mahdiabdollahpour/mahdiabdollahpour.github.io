@@ -29,6 +29,9 @@ main:
   - title: "Files"
     url: /FilesView/
     
+  - title: "Blog"
+    url: /blog/
+    
   - title: "Personal"
     url: /personal/
 
