@@ -3,8 +3,8 @@ main:
   - title: "About"
     url: 
     
-  - title: "Publications"
-    url: /publications/
+  # - title: "Publications"
+  #   url: /publications/
 
 #   - title: "Talks"
 #     url: /talks/    
@@ -29,8 +29,8 @@ main:
   - title: "Files"
     url: /FilesView/
     
-  - title: "Blog"
-    url: /blog/
+  # - title: "Blog"
+  #   url: /blog/
     
   - title: "Personal"
     url: /personal/
